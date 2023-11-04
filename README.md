@@ -2,7 +2,7 @@
 
 
 <!-- - 🔭 I’m currently working on ML Project -->
-- 🌱 I’m currently learning Web Developtment in MERN stack
+- 🌱 I’m currently learning Web Developtment with MERN stack
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about any tech related topic
