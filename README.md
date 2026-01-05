@@ -8,9 +8,6 @@
   <a href="https://linkedin.com/in/khaled01" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
-  <a href="+8801575178424" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="25" alt="whatsapp logo"  />
-  </a>
 </div>
 
 ###
@@ -29,7 +26,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning AI agentic programming</p>
+<p align="left">- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning - AI agentic programming</p>
 
 ###
 
